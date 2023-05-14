@@ -1,0 +1,22 @@
+body{
+    background-color: #800000;
+}
+
+h1{
+    color: gold;
+}
+
+p, ul, ol{
+    color: wheat;
+}
+
+ol, ul{
+    line-height: 1.6;
+}
+
+img{
+    margin-left: 50%;
+    margin-right: 50%;
+    width: auto;
+    height: 500px;
+}

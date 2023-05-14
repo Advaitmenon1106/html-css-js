@@ -1,0 +1,22 @@
+body{
+    background-color: #800000;
+}
+
+ul{
+    width: fit-content;
+    height: fit-content;
+    line-height: 1.6;
+    color: wheat;
+    text-align: center;
+}
+
+.heading1{
+    color: gold;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: wheat;
+    text-align: center;
+}
